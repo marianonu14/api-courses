@@ -1,0 +1,42 @@
+{
+    "technologies": [
+      {
+        "id": 1,
+        "name": "JavaScript",
+        "views": 13200,
+        "level": "easy"
+      },
+      {
+        "id": 2,
+        "name": "TypeScript",
+        "views": 13200,
+        "level": "easy"
+      },
+      {
+        "id": 3,
+        "name": "ReactJS",
+        "views": 13200,
+        "level": "easy"
+      }
+    ],
+    "sports": [
+      {
+        "id": 1,
+        "name": "Soccer",
+        "views": 13200,
+        "level": "easy"
+      },
+      {
+        "id": 2,
+        "name": "Basketball",
+        "views": 13200,
+        "level": "easy"
+      },
+      {
+        "id": 3,
+        "name": "Volley",
+        "views": 13200,
+        "level": "easy"
+      }
+    ]
+  }
